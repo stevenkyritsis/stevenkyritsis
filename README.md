@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on building a new portfolio
 - 🌱 I’m currently learning React
-- 📫 How to reach me: <a href="mailto:stevenkyritsis@protonmail.com">stevenkyritsis@protonmail.com</a>
+- 📫 How to reach me: <a href="mailto:stevenkyritsis@pm.me">stevenkyritsis@pm.me</a>
 - ⚡ Fun fact: I like to hike ⛰️
 
 <!--
