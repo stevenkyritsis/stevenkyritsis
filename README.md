@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning FastAPI
+- 🌱 I’m currently learning Swift
 - 📫 How to reach me: <a href="mailto:stevenkyritsis@pm.me">stevenkyritsis@pm.me</a>
 - ⚡ Fun fact: I like to hike ⛰️
 
