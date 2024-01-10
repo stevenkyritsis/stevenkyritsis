@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning how to make test driven code
 - 📫 How to reach me: <a href="mailto:stevenkyritsis@pm.me">stevenkyritsis@pm.me</a>
 - ⚡ Fun fact: I like to hike ⛰️
 
