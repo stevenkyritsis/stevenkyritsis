@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning how to make test driven code
+- 🧠 Currently studying Intro to AI (NJIT CS 370)
 - 📫 How to reach me: <a href="mailto:stevenkyritsis@pm.me">stevenkyritsis@pm.me</a>
 - ⚡ Fun fact: I like to hike ⛰️
 
