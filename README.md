@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning how to make test driven code
+- 🌱 I’m currently learning CI/CD
 - 🧠 Currently studying Intro to AI (NJIT CS 370)
 - 📫 How to reach me: <a href="mailto:stevenkyritsis@pm.me">stevenkyritsis@pm.me</a>
-- ⚡ Fun fact: I like to hike ⛰️
-
+- ⚡ Fun fact: I like to hike ⛰️ and play guitar 🎸
 <!--
 **stevenkyritsis/stevenkyritsis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
