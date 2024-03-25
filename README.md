@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning CI/CD
+- 🌱 I’m currently learning CI/CD pipeline and integrations with DevOps
 - 🧠 Currently studying Intro to AI (NJIT CS 370)
 - 📫 How to reach me: <a href="mailto:stevenkyritsis@pm.me">stevenkyritsis@pm.me</a>
 - ⚡ Fun fact: I like to hike ⛰️ and play guitar 🎸
